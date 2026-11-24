@@ -1,0 +1,544 @@
+{
+  "description": "Pinned mesh inputs for the successful red-cube grasp demo. Generated support STLs are versioned separately.",
+  "files": [
+    {
+      "destination": "assets/meshes/solo_12_base_7.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_7.obj",
+      "sha256": "3cc75ec1e8eb881e2bce04ddbe7e4e50043df32871d7b9690017a1336dd0a62e"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_8.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_8.obj",
+      "sha256": "43b83655cf52805392d163900e0f34094362db394d430587cb10d2839f1f6a78"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_9.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_9.obj",
+      "sha256": "163f9c8dc258246547449cf3d7e575d7af36176f4bd80d3caa31fe53f7e63ff2"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_10.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_10.obj",
+      "sha256": "a5ae77f3a85239c83910548de5b816f3b23c3596c719fdda22daf57ae9869242"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_13.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_13.obj",
+      "sha256": "a53b0b9c96eff3d0f4dbcb2ac7a8774617b1412449358cad8670ec15f1167e39"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_15.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_15.obj",
+      "sha256": "5c514ab78652a9f71867a1cd6d7c375f4ee87d0ad2ebdf002b65c25430b5ae02"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_16.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_16.obj",
+      "sha256": "0bd9b46f4db21a62e95935d563d136f238e8bf4a54ce197cd0d566f3e7369888"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_18.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_18.obj",
+      "sha256": "08ba8c19ed60bdb6f67b5889755ec5cabbb5b2cab530fb31c9fd2f9305709e3e"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_19.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_19.obj",
+      "sha256": "d7f7bc91a730437883bd9ab7bf5910d4e30804dbce7fca761e4400e019a8f811"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_20.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_20.obj",
+      "sha256": "12f4cc38ba4065563aee646b5db3ab9f41622333d1fe89f9fee314d2cfea4c84"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_21.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_21.obj",
+      "sha256": "faff06db030630ceba9bf49290354b66682de9cf335f037efe7fe023d823603d"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_22.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_22.obj",
+      "sha256": "49d66079fa6060d078d8fd3e16bc69a035395f23d25daf7e6cacc5b2a714733a"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_23.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_23.obj",
+      "sha256": "836ad1c3bbbc1a32cc455bddfa9f154a437efca8ff04fc004762fbbdf1649150"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_24.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_24.obj",
+      "sha256": "80d182c0c99455bafd8aa0796123e65425d6cb17275bae27cbf8143445dfda54"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_25.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_25.obj",
+      "sha256": "7c6dec4b962ebfaa45acc8dc0b03734b0f7f65339a930875282fd5ce6cdba892"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_26.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_26.obj",
+      "sha256": "a1d96d069006e8f9beca4a0348aa0c129813b547d0cf43a5d37a7e833936e43b"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_27.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_27.obj",
+      "sha256": "cf5faada9f7f34a1d9e25e80160c98bd2491d2e119ede84f463bd86e95538382"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_collision_0.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_collision_0.obj",
+      "sha256": "6343a70ebe34169c8294774f2a8bd7dc8b94ecdbc24caa08ea28559bfcd6f2bc"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_collision_1.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_collision_1.obj",
+      "sha256": "b5585e125fc75c758e4f9dc831efe9ad3e4327c1a2f5a93d6271b7e403256993"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_collision_2.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_collision_2.obj",
+      "sha256": "00197311b3e433c2356e3e70181fe4aaeb10cfc7fedc8127cda577421fb427e7"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_collision_3.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_collision_3.obj",
+      "sha256": "dbfc4490520c2ae3e242facb2c174754500e4bb8e1b5ffd697bf5c94f4463bfb"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_collision_4.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_collision_4.obj",
+      "sha256": "82e43f189c82159e08adeff56715dc8b670fe4c654ec5692f752d53c216b4e02"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_collision_5.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_collision_5.obj",
+      "sha256": "1e5bd87a00cc41c61d444d8f9da6e863f801b9a040913863356ea7dae5ef8414"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_collision_6.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_collision_6.obj",
+      "sha256": "05234cda3ec8e2fdd13138ea6449209fd2e2c740c04bf053cb60b236f4669b76"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_collision_7.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_collision_7.obj",
+      "sha256": "b65d743f62aa15b4a4bbd8148e309a8dcfbcfeef417e478058fdf96956624288"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_collision_8.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_collision_8.obj",
+      "sha256": "05e3e09ffdde75b1c93036f347bea99dc112dc7cd589e61ab3c77139e8d66b91"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_collision_9.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_collision_9.obj",
+      "sha256": "d94ef95547cc9a4e517fbd5e295cad1241e85727492506d2043d8ba0f4bde2f2"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_collision_10.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_collision_10.obj",
+      "sha256": "5423bebdd2197d284371b65c0898b98debd72ceed4832de2d70c5bba8ab7a5c9"
+    },
+    {
+      "destination": "assets/meshes/solo_12_base_collision_11.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_12_base/solo_12_base_collision_11.obj",
+      "sha256": "164e44a64c4a4bef56a7bdee61119c241987703786cdab00f328730808d9238f"
+    },
+    {
+      "destination": "assets/meshes/solo_lower_leg_v2_0.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_lower_leg_v2/solo_lower_leg_v2_0.obj",
+      "sha256": "03b7614c72a25d961b50a8013f28d0d97a9502895729e7a48c572d45eca30598"
+    },
+    {
+      "destination": "assets/meshes/solo_lower_leg_v2_1.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_lower_leg_v2/solo_lower_leg_v2_1.obj",
+      "sha256": "d652a354ed8fbbdae0e81f8b20a630aab21cfdb3c9f73990e78f42d70216e194"
+    },
+    {
+      "destination": "assets/meshes/solo_lower_leg_v2_2.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_lower_leg_v2/solo_lower_leg_v2_2.obj",
+      "sha256": "8b7f36e418de06138f889be132c1ca428720e7c6351b73dd196da374ad64393e"
+    },
+    {
+      "destination": "assets/meshes/solo_lower_leg_v2_collision_0.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_lower_leg_v2/solo_lower_leg_v2_collision_0.obj",
+      "sha256": "62f722ed6dcec3bc64a377d112db7242a082a99257ef03e1b6f864c7ae315df1"
+    },
+    {
+      "destination": "assets/meshes/solo_lower_leg_v2_collision_1.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_lower_leg_v2/solo_lower_leg_v2_collision_1.obj",
+      "sha256": "a6cb1fd8eb7e82d94d270da75c2d8b4fd426387d06573d99c93451613fcddf2d"
+    },
+    {
+      "destination": "assets/meshes/solo_lower_leg_v2_collision_2.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_lower_leg_v2/solo_lower_leg_v2_collision_2.obj",
+      "sha256": "11f496e757c41a139d7d9214c1619e539bbcd74fe3edc003c226348e3fe39764"
+    },
+    {
+      "destination": "assets/meshes/solo_lower_leg_v2_collision_3.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_lower_leg_v2/solo_lower_leg_v2_collision_3.obj",
+      "sha256": "3752fe18cd38c06ad67ac15ea54630af99fff4b4d97e61973c76f5dde7fd960a"
+    },
+    {
+      "destination": "assets/meshes/solo_lower_leg_v2_collision_4.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_lower_leg_v2/solo_lower_leg_v2_collision_4.obj",
+      "sha256": "0968790686a5d977d8e52f3f68320c7834b724e044377dc22437ae50f34e128e"
+    },
+    {
+      "destination": "assets/meshes/solo_lower_leg_v2_collision_5.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_lower_leg_v2/solo_lower_leg_v2_collision_5.obj",
+      "sha256": "d7d2d01aabc911d41a22215c905a3f5377eaa2d400065a091be5efbae6d39371"
+    },
+    {
+      "destination": "assets/meshes/solo_upper_leg_4.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_upper_leg/solo_upper_leg_4.obj",
+      "sha256": "49ab1ff705971a3d2044df21e60d7d63a140f3e0290c39483c16e30ad40af494"
+    },
+    {
+      "destination": "assets/meshes/solo_upper_leg_5.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_upper_leg/solo_upper_leg_5.obj",
+      "sha256": "6f5c208355aa8520036ee777d73bcda022d0c89bb8862e43f567b37e850de181"
+    },
+    {
+      "destination": "assets/meshes/solo_upper_leg_6.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_upper_leg/solo_upper_leg_6.obj",
+      "sha256": "70f06c22ddac5ccd3a361982678716fcf88f917cafae9a6185f7cc799cfd630b"
+    },
+    {
+      "destination": "assets/meshes/solo_upper_leg_7.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_upper_leg/solo_upper_leg_7.obj",
+      "sha256": "e3a7397a487e776304714d8a62832c3d9f2f9354527cd73bc5f80bf328d36e1c"
+    },
+    {
+      "destination": "assets/meshes/solo_upper_leg_12.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_upper_leg/solo_upper_leg_12.obj",
+      "sha256": "cedc1dc472033a276b87e9fe9ca3cc98d10d20bbff012f15fc96b4e654b6f6e9"
+    },
+    {
+      "destination": "assets/meshes/solo_upper_leg_16.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_upper_leg/solo_upper_leg_16.obj",
+      "sha256": "0713f1f9e84374894f94b991fb1d07f212ecaac801489797861580388f6258ec"
+    },
+    {
+      "destination": "assets/meshes/solo_upper_leg_17.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_upper_leg/solo_upper_leg_17.obj",
+      "sha256": "48130d768517ceafe4b36499f81b61367e41ecf5083209be63e5c1e2312aa03c"
+    },
+    {
+      "destination": "assets/meshes/solo_upper_leg_18.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_upper_leg/solo_upper_leg_18.obj",
+      "sha256": "9ca9c6f5e7395272e08a7783772a4c7b1e657e8631ac324dcd2c43178f41cc32"
+    },
+    {
+      "destination": "assets/meshes/solo_upper_leg_19.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_upper_leg/solo_upper_leg_19.obj",
+      "sha256": "a3b68fc9c8fd3da10fa5003817b72719114238957b75a41c3d9e110aafd98b59"
+    },
+    {
+      "destination": "assets/meshes/solo_upper_leg_collision_0.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_upper_leg/solo_upper_leg_collision_0.obj",
+      "sha256": "4fe2f9ac7c1e14cb4a97cdbda4844d7febfff7d8390e73073b3b2216d89d14a1"
+    },
+    {
+      "destination": "assets/meshes/solo_upper_leg_collision_1.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_upper_leg/solo_upper_leg_collision_1.obj",
+      "sha256": "7c73ba849182dc1d1e3106ba9afd0bc7b59ccd9d86e0abe28c8efb9db8190d58"
+    },
+    {
+      "destination": "assets/meshes/solo_upper_leg_collision_2.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_upper_leg/solo_upper_leg_collision_2.obj",
+      "sha256": "1e2e0b765fc22b1e9845b6d31977b48f9fee9a3380a7da4a3ad75048b9f56dc6"
+    },
+    {
+      "destination": "assets/meshes/solo_upper_leg_collision_3.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_upper_leg/solo_upper_leg_collision_3.obj",
+      "sha256": "c5e8c8609fae09aad070581af65eaa0628df4adff3544ebde78c12995544af53"
+    },
+    {
+      "destination": "assets/meshes/solo_upper_leg_collision_4.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_upper_leg/solo_upper_leg_collision_4.obj",
+      "sha256": "638f7bd674f1bd5c266f4e4aa5863c8da4c091479132faf3c4dd1dddf3289225"
+    },
+    {
+      "destination": "assets/meshes/solo_upper_leg_collision_5.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo_upper_leg/solo_upper_leg_collision_5.obj",
+      "sha256": "d2fd3fda017d0939e921c4a744986715c55685efa674fd64cacb44432da1e549"
+    },
+    {
+      "destination": "assets/meshes/solo12_hip_fe_0.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo12_hip_fe/solo12_hip_fe_0.obj",
+      "sha256": "d53c3bfd93c2a4c567cb30d00308210e68a468b278fdca724a5b8fb2175cf99a"
+    },
+    {
+      "destination": "assets/meshes/solo12_hip_fe_1.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo12_hip_fe/solo12_hip_fe_1.obj",
+      "sha256": "aba3a08adf3e865450a0870da3e3d903b0a7277e42350942227146fd89f5f0e3"
+    },
+    {
+      "destination": "assets/meshes/solo12_hip_fe_3.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo12_hip_fe/solo12_hip_fe_3.obj",
+      "sha256": "b3f6363b265239d53412e2c77e898047680730b8c7763a391f464782fca6ad99"
+    },
+    {
+      "destination": "assets/meshes/solo12_hip_fe_7.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo12_hip_fe/solo12_hip_fe_7.obj",
+      "sha256": "f5a2095ef27bc964b329f9a5af652306af1731bf14c0e7d946b4fb2577470383"
+    },
+    {
+      "destination": "assets/meshes/solo12_hip_fe_8.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo12_hip_fe/solo12_hip_fe_8.obj",
+      "sha256": "e5691314eea3927257a8f8f473345c24c0fe6b98e52b32f1bbf814fd1a60bcf8"
+    },
+    {
+      "destination": "assets/meshes/solo12_hip_fe_10.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo12_hip_fe/solo12_hip_fe_10.obj",
+      "sha256": "8c59fe0577657c0db4d93f19133aaa66898fc2865f153375daa6e654d93e22ae"
+    },
+    {
+      "destination": "assets/meshes/solo12_hip_fe_11.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo12_hip_fe/solo12_hip_fe_11.obj",
+      "sha256": "03e53d69a7a492fb44573ccf1ae0094047b7036e7124612fbaf9a33dda376e25"
+    },
+    {
+      "destination": "assets/meshes/solo12_hip_fe_12.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo12_hip_fe/solo12_hip_fe_12.obj",
+      "sha256": "335f837ab252ad40d4597f0d05496a28c62b7e1e392089b2139dad8ff0a77382"
+    },
+    {
+      "destination": "assets/meshes/solo12_hip_fe_13.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo12_hip_fe/solo12_hip_fe_13.obj",
+      "sha256": "23d146e38b7763288ba6512d9e9aef6c008754747614617bdae0bacf775f331f"
+    },
+    {
+      "destination": "assets/meshes/solo12_hip_fe_14.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo12_hip_fe/solo12_hip_fe_14.obj",
+      "sha256": "c09492ed3eaa0e7c4751d0e441871ff14c0eddc957d751859289f88c1cdf5ef6"
+    },
+    {
+      "destination": "assets/meshes/solo12_hip_fe_collision_0.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo12_hip_fe/solo12_hip_fe_collision_0.obj",
+      "sha256": "1c060c60bee969deb75df93b4650d7618db89b15f425ec3e884099f61da6b5f0"
+    },
+    {
+      "destination": "assets/meshes/solo12_hip_fe_collision_1.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo12_hip_fe/solo12_hip_fe_collision_1.obj",
+      "sha256": "62c1104b889e5954a134350ef666e5ef35e29eb310376322a0b4166f35df7634"
+    },
+    {
+      "destination": "assets/meshes/solo12_hip_fe_collision_2.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo12_hip_fe/solo12_hip_fe_collision_2.obj",
+      "sha256": "d8a3b34a744e573e3bb3e11cefbd189f727de47f30395344d4fe099bafa4ced5"
+    },
+    {
+      "destination": "assets/meshes/solo12_hip_fe_collision_3.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo12_hip_fe/solo12_hip_fe_collision_3.obj",
+      "sha256": "c45c9ebcd28faeeef80ad926c78c248c77d4ab098f6e1e59a371de9e2514e5a5"
+    },
+    {
+      "destination": "assets/meshes/solo12_hip_fe_collision_4.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo12_hip_fe/solo12_hip_fe_collision_4.obj",
+      "sha256": "38b7949e88da5c3df859002f142d5025ca50f165edaf2b237e737cd87a7c610a"
+    },
+    {
+      "destination": "assets/meshes/solo12_hip_fe_collision_5.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/solo12_hip_fe/solo12_hip_fe_collision_5.obj",
+      "sha256": "06542418043ade627e0649cb9734504acbb4ebe33202fd2ef98ddaea2cb138e2"
+    },
+    {
+      "destination": "assets/meshes/hip_adapter.obj",
+      "repository": "https://github.com/rkourdis/solo12_mujoco",
+      "commit": "846cd588f461050068aaea03511915a8ddd8f06a",
+      "upstream_path": "resources/meshes/hip_adapter/hip_adapter.obj",
+      "sha256": "ebbc7bf16075f213c2b6f634e95f19b9784ee25b537553fc09b9d15f87b366f4"
+    },
+    {
+      "destination": "assets/meshes/omx_mesh_link1_0.stl",
+      "repository": "https://github.com/ROBOTIS-GIT/open_manipulator",
+      "commit": "ee9a720bcc45acda9c0df8fe689b1182844307db",
+      "upstream_path": "open_manipulator_description/meshes/open_manipulator_x/link1.stl",
+      "sha256": "d2b84e13ccd3f923148bb26c95723bb3c9e7af0a7cc85cd315ee70ce7629dd1f"
+    },
+    {
+      "destination": "assets/meshes/omx_mesh_link2_0.stl",
+      "repository": "https://github.com/ROBOTIS-GIT/open_manipulator",
+      "commit": "ee9a720bcc45acda9c0df8fe689b1182844307db",
+      "upstream_path": "open_manipulator_description/meshes/open_manipulator_x/link2.stl",
+      "sha256": "20a6cc8a673b90ab02f97e4c2f0437ff692e71daded8a82a77b54254ae877c66"
+    },
+    {
+      "destination": "assets/meshes/omx_mesh_link3_0.stl",
+      "repository": "https://github.com/ROBOTIS-GIT/open_manipulator",
+      "commit": "ee9a720bcc45acda9c0df8fe689b1182844307db",
+      "upstream_path": "open_manipulator_description/meshes/open_manipulator_x/link3.stl",
+      "sha256": "e6904447bca7888acb6a3a170d220b12e92f6dbf53c560987527cfd115f6eb19"
+    },
+    {
+      "destination": "assets/meshes/omx_mesh_link4_0.stl",
+      "repository": "https://github.com/ROBOTIS-GIT/open_manipulator",
+      "commit": "ee9a720bcc45acda9c0df8fe689b1182844307db",
+      "upstream_path": "open_manipulator_description/meshes/open_manipulator_x/link4.stl",
+      "sha256": "9da72baf0854e0335bf0fe199da3676c57625e17277a4fa455b995130b29ffab"
+    },
+    {
+      "destination": "assets/meshes/omx_mesh_link5_0.stl",
+      "repository": "https://github.com/ROBOTIS-GIT/open_manipulator",
+      "commit": "ee9a720bcc45acda9c0df8fe689b1182844307db",
+      "upstream_path": "open_manipulator_description/meshes/open_manipulator_x/link5.stl",
+      "sha256": "75e7596295dd5f5cbc68d81b2c875058f28721f98d7402d2d431ccf2334b57a6"
+    },
+    {
+      "destination": "assets/meshes/omx_mesh_gripper_left_link_0.stl",
+      "repository": "https://github.com/ROBOTIS-GIT/open_manipulator",
+      "commit": "ee9a720bcc45acda9c0df8fe689b1182844307db",
+      "upstream_path": "open_manipulator_description/meshes/open_manipulator_x/gripper_left_palm.stl",
+      "sha256": "fb4dfabe68712bbba34deb9f8469f9187009c07579dccd5401b82d08de425267"
+    },
+    {
+      "destination": "assets/meshes/omx_mesh_gripper_right_link_0.stl",
+      "repository": "https://github.com/ROBOTIS-GIT/open_manipulator",
+      "commit": "ee9a720bcc45acda9c0df8fe689b1182844307db",
+      "upstream_path": "open_manipulator_description/meshes/open_manipulator_x/gripper_right_palm.stl",
+      "sha256": "a5bfc10a067c806a19062e2fcb58989623a09edc0e9bbc4fd735a56d83f99752"
+    }
+  ]
+}

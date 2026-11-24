@@ -1,0 +1,21 @@
+# Only the reproducible grasp demo is published. Local research remains untouched.
+/*
+!/.gitignore
+!/.dockerignore
+!/README.md
+!/THIRD_PARTY.md
+!/Dockerfile
+!/requirements.txt
+!/run_demo.sh
+!/simulate_grasp.py
+!/assets/
+!/licenses/
+!/tools/
+!/manipulation/
+/assets/meshes/
+/manipulation/*
+!/manipulation/__init__.py
+!/manipulation/demo_model.py
+!/manipulation/animation.py
+**/__pycache__/
+*.pyc
